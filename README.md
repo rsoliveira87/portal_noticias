@@ -23,4 +23,8 @@ Crie uma base de dados no MySQL com o nome "portal_noticias", depois crie uma ta
 
 Abra o arquivo **dbConnection.js** dentro da pasta **config** e insira o usuário e senha do banco de dados.
 
-Para executar o projeto, basta abrir o navegador e digitar localhost:3000 na barra de endereços que abrirá a página inicial.
+Para executar o projeto, execute o comando abaixo no terminal.
+
+    nodemon aula-11
+
+Depois basta abrir o navegador e digitar **localhost:3000** na barra de endereços para a página inicial.
