@@ -1,4 +1,4 @@
-# portal_noticias
+# Portal de Notícias - Curso Completo do Desenvolvedor NodeJS e MongoDB - Udemy
 Meu primeiro projeto com NodeJS.
 
 Este projeto foi implementado através do curso on-line "Curso Completo do Desenvolvedor NodeJS e MongoDB" da Udemy.
